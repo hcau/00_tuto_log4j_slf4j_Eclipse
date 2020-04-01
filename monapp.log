@@ -1,0 +1,54 @@
+2019-07-16 21:54:36.284 DEBUG    [main]:tuto_log4j_slf4j.TestLog4j1 - message log.debug
+2019-07-16 21:54:36.290 INFO     [main]:tuto_log4j_slf4j.TestLog4j1 - message1 log.info
+2019-07-16 21:54:36.292 INFO     [main]:tuto_log4j_slf4j.TestLog4j1 - At the age of 23 ramu got his first job
+2019-07-16 21:54:36.292 INFO     [main]:tuto_log4j_slf4j.TestLog4j1 - Old weight is 105. new weight is 85.
+2019-07-16 21:54:36.293 ERROR    [main]:tuto_log4j_slf4j.TestLog4j1 - This is an error by HCau!
+2019-07-16 21:54:36.293 DEBUG    [main]:tuto_log4j_slf4j.TestLog4j1 - msg de debogage
+2019-07-16 21:54:36.293 INFO     [main]:tuto_log4j_slf4j.TestLog4j1 - msg d'information
+2019-07-16 21:54:36.294 WARN     [main]:tuto_log4j_slf4j.TestLog4j1 - msg d'avertissement
+2019-07-16 21:54:36.296 ERROR    [main]:tuto_log4j_slf4j.TestLog4j1 - msg d'erreur
+2019-07-17 08:41:39.969 DEBUG    [main]:tuto_log4j_slf4j.TestLog4j1 - message log.debug
+2019-07-17 08:41:39.971 INFO     [main]:tuto_log4j_slf4j.TestLog4j1 - message1 log.info
+2019-07-17 08:41:39.973 INFO     [main]:tuto_log4j_slf4j.TestLog4j1 - At the age of 23 ramu got his first job
+2019-07-17 08:41:39.973 INFO     [main]:tuto_log4j_slf4j.TestLog4j1 - Old weight is 105. new weight is 85.
+2019-07-17 08:41:39.973 ERROR    [main]:tuto_log4j_slf4j.TestLog4j1 - This is an error by HCau!
+2019-07-17 08:41:39.973 DEBUG    [main]:tuto_log4j_slf4j.TestLog4j1 - msg de debogage
+2019-07-17 08:41:39.973 INFO     [main]:tuto_log4j_slf4j.TestLog4j1 - msg d'information
+2019-07-17 08:41:39.973 WARN     [main]:tuto_log4j_slf4j.TestLog4j1 - msg d'avertissement
+2019-07-17 08:41:39.975 ERROR    [main]:tuto_log4j_slf4j.TestLog4j1 - msg d'erreur
+2019-07-20 20:19:05.968 DEBUG    [main]:tuto_log4j_slf4j.TestLog4j1 - message log.debug
+2019-07-20 20:19:05.975 INFO     [main]:tuto_log4j_slf4j.TestLog4j1 - message1 log.info
+2019-07-20 20:19:05.978 INFO     [main]:tuto_log4j_slf4j.TestLog4j1 - At the age of 23 ramu got his first job
+2019-07-20 20:19:05.979 INFO     [main]:tuto_log4j_slf4j.TestLog4j1 - Old weight is 105. new weight is 85.
+2019-07-20 20:19:05.979 ERROR    [main]:tuto_log4j_slf4j.TestLog4j1 - This is an error by HCau!
+2019-07-20 20:19:05.980 DEBUG    [main]:tuto_log4j_slf4j.TestLog4j1 - msg de debogage
+2019-07-20 20:19:05.980 INFO     [main]:tuto_log4j_slf4j.TestLog4j1 - msg d'information
+2019-07-20 20:19:05.980 WARN     [main]:tuto_log4j_slf4j.TestLog4j1 - msg d'avertissement
+2019-07-20 20:19:05.993 ERROR    [main]:tuto_log4j_slf4j.TestLog4j1 - msg d'erreur
+2019-07-20 20:26:54.278 DEBUG    [main]:tuto_log4j_slf4j.TestLog4j1 - message log.debug
+2019-07-20 20:26:54.283 INFO     [main]:tuto_log4j_slf4j.TestLog4j1 - message1 log.info
+2019-07-20 20:26:54.287 INFO     [main]:tuto_log4j_slf4j.TestLog4j1 - At the age of 23 ramu got his first job
+2019-07-20 20:26:54.287 INFO     [main]:tuto_log4j_slf4j.TestLog4j1 - Old weight is 105. new weight is 85.
+2019-07-20 20:26:54.287 ERROR    [main]:tuto_log4j_slf4j.TestLog4j1 - This is an error by HCau!
+2019-07-20 20:26:54.288 DEBUG    [main]:tuto_log4j_slf4j.TestLog4j1 - msg de debogage
+2019-07-20 20:26:54.288 INFO     [main]:tuto_log4j_slf4j.TestLog4j1 - msg d'information
+2019-07-20 20:26:54.288 WARN     [main]:tuto_log4j_slf4j.TestLog4j1 - msg d'avertissement
+2019-07-20 20:26:54.291 ERROR    [main]:tuto_log4j_slf4j.TestLog4j1 - msg d'erreur
+2019-07-27 14:48:37.209 DEBUG    [main]:tuto_log4j_slf4j.TestLog4j1 - message log.debug
+2019-07-27 14:48:37.213 INFO     [main]:tuto_log4j_slf4j.TestLog4j1 - message1 log.info
+2019-07-27 14:48:37.215 INFO     [main]:tuto_log4j_slf4j.TestLog4j1 - At the age of 23 ramu got his first job
+2019-07-27 14:48:37.216 INFO     [main]:tuto_log4j_slf4j.TestLog4j1 - Old weight is 105. new weight is 85.
+2019-07-27 14:48:37.216 ERROR    [main]:tuto_log4j_slf4j.TestLog4j1 - This is an error by HCau!
+2019-07-27 14:48:37.217 DEBUG    [main]:tuto_log4j_slf4j.TestLog4j1 - msg de debogage
+2019-07-27 14:48:37.217 INFO     [main]:tuto_log4j_slf4j.TestLog4j1 - msg d'information
+2019-07-27 14:48:37.218 WARN     [main]:tuto_log4j_slf4j.TestLog4j1 - msg d'avertissement
+2019-07-27 14:48:37.221 ERROR    [main]:tuto_log4j_slf4j.TestLog4j1 - msg d'erreur
+2020-03-29 17:39:45.581 DEBUG    [main]:tuto_log4j_slf4j.TestLog4j1 - message log.debug
+2020-03-29 17:39:45.584 INFO     [main]:tuto_log4j_slf4j.TestLog4j1 - message1 log.info
+2020-03-29 17:39:45.586 INFO     [main]:tuto_log4j_slf4j.TestLog4j1 - At the age of 23 ramu got his first job
+2020-03-29 17:39:45.587 INFO     [main]:tuto_log4j_slf4j.TestLog4j1 - Old weight is 105. new weight is 85.
+2020-03-29 17:39:45.587 ERROR    [main]:tuto_log4j_slf4j.TestLog4j1 - This is an error by HCau!
+2020-03-29 17:39:45.588 DEBUG    [main]:tuto_log4j_slf4j.TestLog4j1 - msg de debogage
+2020-03-29 17:39:45.588 INFO     [main]:tuto_log4j_slf4j.TestLog4j1 - msg d'information
+2020-03-29 17:39:45.588 WARN     [main]:tuto_log4j_slf4j.TestLog4j1 - msg d'avertissement
+2020-03-29 17:39:45.607 ERROR    [main]:tuto_log4j_slf4j.TestLog4j1 - msg d'erreur

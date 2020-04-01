@@ -1,0 +1,3 @@
+==> run as Java application
+Projet Eclipse (maven).
+Exemple de façade slf4j avec log4j pour journaliser (ici dans un fichier (monapp.log) et dans la sortie principale (out)).

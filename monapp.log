@@ -52,3 +52,21 @@
 2020-03-29 17:39:45.588 INFO     [main]:tuto_log4j_slf4j.TestLog4j1 - msg d'information
 2020-03-29 17:39:45.588 WARN     [main]:tuto_log4j_slf4j.TestLog4j1 - msg d'avertissement
 2020-03-29 17:39:45.607 ERROR    [main]:tuto_log4j_slf4j.TestLog4j1 - msg d'erreur
+2020-04-02 14:15:05.831 DEBUG    [main]:tuto_log4j_slf4j.TestLog4j1 - message log.debug
+2020-04-02 14:15:05.834 INFO     [main]:tuto_log4j_slf4j.TestLog4j1 - message1 log.info
+2020-04-02 14:15:05.835 INFO     [main]:tuto_log4j_slf4j.TestLog4j1 - At the age of 23 ramu got his first job
+2020-04-02 14:15:05.836 INFO     [main]:tuto_log4j_slf4j.TestLog4j1 - Old weight is 105. new weight is 85.
+2020-04-02 14:15:05.836 ERROR    [main]:tuto_log4j_slf4j.TestLog4j1 - This is an error by HCau!
+2020-04-02 14:15:05.836 DEBUG    [main]:tuto_log4j_slf4j.TestLog4j1 - msg de debogage
+2020-04-02 14:15:05.836 INFO     [main]:tuto_log4j_slf4j.TestLog4j1 - msg d'information
+2020-04-02 14:15:05.837 WARN     [main]:tuto_log4j_slf4j.TestLog4j1 - msg d'avertissement
+2020-04-02 14:15:05.839 ERROR    [main]:tuto_log4j_slf4j.TestLog4j1 - msg d'erreur
+2020-04-02 14:22:11.605 DEBUG    [main]:fr.caujolle.herve.tuto_log4j_slf4j.TestLog4j1 - message log.debug
+2020-04-02 14:22:11.608 INFO     [main]:fr.caujolle.herve.tuto_log4j_slf4j.TestLog4j1 - message1 log.info
+2020-04-02 14:22:11.610 INFO     [main]:fr.caujolle.herve.tuto_log4j_slf4j.TestLog4j1 - At the age of 23 ramu got his first job
+2020-04-02 14:22:11.610 INFO     [main]:fr.caujolle.herve.tuto_log4j_slf4j.TestLog4j1 - Old weight is 105. new weight is 85.
+2020-04-02 14:22:11.610 ERROR    [main]:fr.caujolle.herve.tuto_log4j_slf4j.TestLog4j1 - This is an error by HCau!
+2020-04-02 14:22:11.611 DEBUG    [main]:fr.caujolle.herve.tuto_log4j_slf4j.TestLog4j1 - msg de debogage
+2020-04-02 14:22:11.611 INFO     [main]:fr.caujolle.herve.tuto_log4j_slf4j.TestLog4j1 - msg d'information
+2020-04-02 14:22:11.611 WARN     [main]:fr.caujolle.herve.tuto_log4j_slf4j.TestLog4j1 - msg d'avertissement
+2020-04-02 14:22:11.616 ERROR    [main]:fr.caujolle.herve.tuto_log4j_slf4j.TestLog4j1 - msg d'erreur

@@ -1,4 +1,4 @@
-package tuto_log4j_slf4j;
+package fr.caujolle.herve.tuto_log4j_slf4j;
 
 //import org.apache.log4j.Logger;
 import org.slf4j.Logger;
